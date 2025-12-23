@@ -1,0 +1,17 @@
+# Ignore compiled files
+*.exe
+*.out
+*.obj
+*.o
+*.pdb
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore IDE-specific folders (Visual Studio example)
+.vs/
+*.user
+*.suo
+*.ipch
